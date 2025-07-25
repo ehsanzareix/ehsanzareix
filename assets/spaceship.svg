@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="300" height="300"
+     viewBox="0 0 24 24"
+     fill="none" stroke="currentColor" stroke-width="2"
+     stroke-linecap="round" stroke-linejoin="round">
+  <!-- Rocket Body -->
+  <path d="M12 2 L15 8 L12 11 L9 8 Z" fill="#e0e0e0"/>
+  <path d="M9 8 L5 10 L5 14 L9 16 L15 16 L19 14 L19 10 L15 8 Z" fill="#b0bec5"/>
+  <!-- Window -->
+  <circle cx="12" cy="13" r="2" fill="#ffffff"/>
+  <!-- Exhaust Flame -->
+  <path d="M12 16 L12 22" stroke="#ff6f61" stroke-width="2"/>
+  <path d="M9 19 L12 22 L15 19" fill="#ff6f61"/>
+</svg>
