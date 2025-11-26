@@ -1,9 +1,5 @@
 <!-- 🚀 Welcome to the Command Deck of Ehsan “CodeSorcerer” Zarei -->
 
-<p align="center">
-  <img width="300" src="https://raw.githubusercontent.com/ehsanzareix/ehsanzareix/main/assets/spaceship.svg" alt="Spaceship" />
-</p>
-
 # 🪐 Ehsan’s Command Deck
 
 > “In code we trust; in coffee we combust.”
