@@ -1,59 +1,59 @@
-<!-- 🚀 Welcome to the Command Deck of Ehsan “CodeSorcerer” Zarei -->
+# 👋 Ehsan Zarei
 
-# 🪐 Ehsan’s Command Deck
+Full-stack developer building **HexaPalette** — a creative platform for generative art and visual experimentation.
 
-> “In code we trust; in coffee we combust.”
-
----
-
-## 🧙‍♂️ Identity Protocol
-- **Codename:** CodeSorcerer  
-- **Base:** Yerevan, Armenia  
-- **Primary Directive:** Transform ideas into magic ✨  
+I work across the entire product lifecycle, from idea and design to implementation and iteration, with a focus on thoughtful software and creative tooling.
 
 ---
 
-## 🧭 Navigator’s Compass
+## 🚀 Current Project
 
-| 🗣️  Voice           | ⚙️  Gear           | 🎵  Frequency        |
-|---------------------|-------------------|----------------------|
-| Curious & Bold      | Keyboard & Vim    | Jazz Hop & Lo-Fi     |
-| Analytical Thinker  | Dark Theme + Vim  | Synthwave at 128 bpm |
-| Late‑Night Alchemist| Triple‑Shot Latte | Ambient Rain Sounds  |
+### 🧩 HexaPalette
+A web-based tool for creating and exploring generative art and patterns.
+
+- Layer-based creative canvas  
+- Designed for experimentation and visual systems  
+
+👉 https://hexapalette.com
 
 ---
 
-## 🔮 Arcane Abilities
+## 🛠️ What I Do
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-🐍-informational?style=flat-square" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-⚡-warning?style=flat-square" alt="JS">
-  <img src="https://img.shields.io/badge/TypeScript-🔷-blue?style=flat-square" alt="TS">
-  <img src="https://img.shields.io/badge/C%23-🎯-important?style=flat-square" alt="C#">
+- Build and ship end-to-end products  
+- Design intuitive creative workflows  
+- Explore generative systems and visual structure  
+- Iterate based on real user feedback  
+
+---
+
+## 🧰 Tools & Tech
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-Informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-Warning?style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-Blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/C%23-Important?style=flat-square" />
 </div>
 
-> *“Each badge represents a rune I’ve mastered in my spellbook.”*
+---
+
+## 🧠 Interests
+
+- Generative art & algorithmic design  
+- Creative tools & UX  
+- Systems that balance structure and freedom  
 
 ---
 
-## 📜 Codex Excerpts
+## 📫 Connect
 
-> — *“When logic meets creativity, you unlock new dimensions.”*  
->
-> — *“Error 404: Limits not found.”*
-
----
-
-## ✉️ Ship’s Comms
-
-<p align="center">
-  <a href="mailto:ehsanzareix@gmail.com">📧 eh­sanz­areix@gmail.com</a> •
-  <a href="https://www.linkedin.com/in/ehsan-zarei">🔗 LinkedIn</a> •
-  <a href="https://github.com/ehsanzareix">🐙 GitHub</a>
-</p>
+- 📧 ehsanzareix@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ehsan-zarei)  
+- 🐙 [GitHub](https://github.com/ehsanzareix)
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=ehsanzareix&style=flat-square" alt="Profile views" />
 </div>
