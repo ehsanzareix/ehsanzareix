@@ -1,59 +1,66 @@
-# 👋 Ehsan Zarei
+<div align="center">
 
-Full-stack developer building **HexaPalette** — a creative platform for generative art and visual experimentation.
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  EHSAN ZAREI                                                 ║
+║  Full-Stack Developer            ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-I work across the entire product lifecycle, from idea and design to implementation and iteration, with a focus on thoughtful software and creative tooling.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🎨 Building
+
+**HexaPalette** — Creative platform for generative art  
+ `Next.js` `FastAPI` `WebGL` `PostgreSQL` `Docker`
+→ [hexapalette.com](https://hexapalette.com)
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## ⚡ Stack
+
+<table>
+<tr>
+<td width="50%">
+
+**Frontend**
+- React / Next.js
+- TypeScript
+- WebGL / GLSL
+- Tailwind CSS
+
+</td>
+<td width="50%">
+
+**Backend**
+- Python / FastAPI
+- Node.js
+- PostgreSQL
+- Docker / AWS
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 📈 Activity
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ehsanzareix&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ehsanzareix&theme=dark&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 💬 Connect
+
+`ehsanzareix@gmail.com` · [LinkedIn](https://linkedin.com/in/ehsan-zarei) · [HexaPalette](https://hexapalette.com)
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
 ---
 
-## 🚀 Current Project
+<sup>Focused on creative tools, generative systems, and end-to-end product development</sup>
 
-### 🧩 HexaPalette
-A web-based tool for creating and exploring generative art and patterns.
-
-- Layer-based creative canvas  
-- Designed for experimentation and visual systems  
-
-👉 https://hexapalette.com
-
----
-
-## 🛠️ What I Do
-
-- Build and ship end-to-end products  
-- Design intuitive creative workflows  
-- Explore generative systems and visual structure  
-- Iterate based on real user feedback  
-
----
-
-## 🧰 Tools & Tech
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-Informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-Warning?style=flat-square" />
-  <img src="https://img.shields.io/badge/TypeScript-Blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/C%23-Important?style=flat-square" />
-</div>
-
----
-
-## 🧠 Interests
-
-- Generative art & algorithmic design  
-- Creative tools & UX  
-- Systems that balance structure and freedom  
-
----
-
-## 📫 Connect
-
-- 📧 ehsanzareix@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ehsan-zarei)  
-- 🐙 [GitHub](https://github.com/ehsanzareix)
-
----
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=ehsanzareix&style=flat-square" alt="Profile views" />
 </div>
