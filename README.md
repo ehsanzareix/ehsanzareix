@@ -11,7 +11,7 @@
 
 ## 🎨 Building
 
-**HexaPalette** — Creative platform for generative art  
+**HexaPalette** — A Creative Studio for Generative Art, Motion & Code
  `Next.js` `FastAPI` `WebGL` `PostgreSQL` `Docker`
 → [hexapalette.com](https://hexapalette.com)
 
